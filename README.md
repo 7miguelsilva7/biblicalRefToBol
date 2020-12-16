@@ -1,2 +1,2 @@
-# biblicalRefToLink
-Referencias bíblicas para site https://bibliaonline.com.br
+# BiblicalRefToLink
+Referencias bíblicas para site https://bibliaonline.com.br e app MySword Android
